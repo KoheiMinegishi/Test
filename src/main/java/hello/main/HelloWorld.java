@@ -5,7 +5,7 @@ public class HelloWorld {
     public String getColor(int i) {
 
         if (i == 1) {
-            return "黒";
+            return "赤";
 
         } else if (i == 2) {
             return "青";
